@@ -1,0 +1,15 @@
+D:\OpenSourceGameDev\osgd-lfs-dropbox\src\LargeFileSync\LargeFileSync\bin\Debug\LargeFileSync.exe.config
+D:\OpenSourceGameDev\osgd-lfs-dropbox\src\LargeFileSync\LargeFileSync\bin\Debug\LargeFileSync.exe
+D:\OpenSourceGameDev\osgd-lfs-dropbox\src\LargeFileSync\LargeFileSync\bin\Debug\LargeFileSync.pdb
+D:\OpenSourceGameDev\osgd-lfs-dropbox\src\LargeFileSync\LargeFileSync\bin\Debug\Dropbox.Api.dll
+D:\OpenSourceGameDev\osgd-lfs-dropbox\src\LargeFileSync\LargeFileSync\bin\Debug\Newtonsoft.Json.dll
+D:\OpenSourceGameDev\osgd-lfs-dropbox\src\LargeFileSync\LargeFileSync\bin\Debug\Dropbox.Api.xml
+D:\OpenSourceGameDev\osgd-lfs-dropbox\src\LargeFileSync\LargeFileSync\bin\Debug\Newtonsoft.Json.xml
+D:\OpenSourceGameDev\osgd-lfs-dropbox\src\LargeFileSync\LargeFileSync\obj\Debug\LargeFileSync.csprojAssemblyReference.cache
+D:\OpenSourceGameDev\osgd-lfs-dropbox\src\LargeFileSync\LargeFileSync\obj\Debug\LargeFileSync.Form1.resources
+D:\OpenSourceGameDev\osgd-lfs-dropbox\src\LargeFileSync\LargeFileSync\obj\Debug\LargeFileSync.Properties.Resources.resources
+D:\OpenSourceGameDev\osgd-lfs-dropbox\src\LargeFileSync\LargeFileSync\obj\Debug\LargeFileSync.csproj.GenerateResource.cache
+D:\OpenSourceGameDev\osgd-lfs-dropbox\src\LargeFileSync\LargeFileSync\obj\Debug\LargeFileSync.csproj.CoreCompileInputs.cache
+D:\OpenSourceGameDev\osgd-lfs-dropbox\src\LargeFileSync\LargeFileSync\obj\Debug\LargeFileSync.csproj.CopyComplete
+D:\OpenSourceGameDev\osgd-lfs-dropbox\src\LargeFileSync\LargeFileSync\obj\Debug\LargeFileSync.exe
+D:\OpenSourceGameDev\osgd-lfs-dropbox\src\LargeFileSync\LargeFileSync\obj\Debug\LargeFileSync.pdb
